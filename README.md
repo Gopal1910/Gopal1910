@@ -1,6 +1,11 @@
 # About Me:
-Hi, I’m Gopal Kumar Mahto, an aspiring Software Engineer with a strong passion for Web Development and Cybersecurity.<br><br>I specialize in building secure, high-performance web applications and solving complex problems using Java and Data Structures & Algorithms. I’m proficient in C, JavaScript, React, and Node.js, with hands-on experience in secure coding practices, network analysis (Wireshark), vulnerability assessment (Burp Suite), and Linux environments.<br><br>I’m always eager to collaborate on impactful, secure, and innovation-driven software solutions — let’s connect and build something meaningful! 
+Hi, I’m Gopal Kumar Mahto, an aspiring Software Engineer with a strong passion for Web Development.
 
+I focus on building scalable, high-performance web applications and solving real-world problems using Java and Data Structures & Algorithms. 
+
+I am proficient in Java, JavaScript, React, and Node.js, and enjoy creating efficient, user-centric solutions.
+
+I’m always open to learning, improving, and collaborating on meaningful software projects—let’s connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gopal-kumar-mahto-8178662a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mgopalkumar009@gmail.com) 
