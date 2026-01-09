@@ -23,8 +23,6 @@ Always open to learning, improving, and collaborating on meaningful software pro
 🔹 Focused on **clean code**,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**performance & scalability**
 
-🔹 Keen interest in **Web Security**,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cloud Computing & System Design**
 
 ---
 
