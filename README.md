@@ -12,7 +12,7 @@ Always open to learning, improving, and collaborating on meaningful software pro
 
 ## 👨‍💻 Full Stack Developer
 
-<img align="right" alt="Coding" width="380" src="https://komarev.com/ghpvc/?username=ritikm31&label=Profile%20views&color=0e75b6&style=flat">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 🔹 Strong foundation in **Java**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**& Data Structures**
