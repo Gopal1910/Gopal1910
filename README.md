@@ -22,21 +22,29 @@ Always open to learning, improving, and collaborating on meaningful software pro
 
   <tr>
     <td valign="top">
+      <h3>👨‍💻 Full Stack Developer</h3>
 
-### 👨‍💻 Full Stack Developer
+      <ul>
+        <li>
+          <strong>Strong foundation in Java</strong>
+          <div>Data Structures</div>
+        </li>
 
-🔹 Strong foundation in **Java**  
-&nbsp;&nbsp;&nbsp;&nbsp;**& Data Structures**
+        <li>
+          <strong>Hands-on experience with Frontend</strong>
+          <div>Backend Development</div>
+        </li>
 
-🔹 Hands-on experience with **Frontend**  
-&nbsp;&nbsp;&nbsp;&nbsp;**& Backend Development**
-
-🔹 Focused on **clean code**,  
-&nbsp;&nbsp;&nbsp;&nbsp;**performance & scalability**
-
+        <li>
+          <strong>Focused on clean code</strong>
+          <div>Performance & scalability</div>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
+
+
 
 
 
