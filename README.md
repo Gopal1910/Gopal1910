@@ -9,39 +9,34 @@ I enjoy creating **efficient, user-centric solutions** using modern web technolo
 Always open to learning, improving, and collaborating on meaningful software projects — **let’s connect!**
 
 ---
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
-        alt="Coding"
-        style="max-width: 420px; width: 100%; height: auto;"
-      />
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  <tr>
-    <td valign="top">
-      <h3>👨‍💻 Full Stack Developer</h3>
+### 👨‍💻 Full Stack Developer
 
-      <ul>
-        <li>
-          <strong>Strong foundation in Java</strong>
-          <div>Data Structures</div>
-        </li>
+🔹 Strong foundation in **Java**  
+&nbsp;&nbsp;&nbsp;&nbsp;**& Data Structures**
 
-        <li>
-          <strong>Hands-on experience with Frontend</strong>
-          <div>Backend Development</div>
-        </li>
+🔹 Hands-on experience with **Frontend**  
+&nbsp;&nbsp;&nbsp;&nbsp;**& Backend Development**
 
-        <li>
-          <strong>Focused on clean code</strong>
-          <div>Performance & scalability</div>
-        </li>
-      </ul>
-    </td>
-  </tr>
+🔹 Focused on **clean code**,  
+&nbsp;&nbsp;&nbsp;&nbsp;**performance & scalability**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+  alt="Coding"
+  style="max-width: 420px; width: 100%; height: auto;"
+/>
+
+</td>
+</tr>
 </table>
 
 
