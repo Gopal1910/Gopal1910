@@ -10,18 +10,33 @@ Always open to learning, improving, and collaborating on meaningful software pro
 
 ---
 
-## 👨‍💻 Full Stack Developer
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+### 👨‍💻 Full Stack Developer
 
 🔹 Strong foundation in **Java**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**& Data Structures**
+&nbsp;&nbsp;&nbsp;&nbsp;**& Data Structures**
 
 🔹 Hands-on experience with **Frontend**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**& Backend Development**
+&nbsp;&nbsp;&nbsp;&nbsp;**& Backend Development**
 
 🔹 Focused on **clean code**,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**performance & scalability**
+&nbsp;&nbsp;&nbsp;&nbsp;**performance & scalability**
+
+</td>
+
+<td width="40%" align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+    width="100%"
+    style="max-width: 380px;"
+  />
+</td>
+</tr>
+</table>
+
 
 
 ---
