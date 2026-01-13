@@ -9,9 +9,19 @@ I enjoy creating **efficient, user-centric solutions** using modern web technolo
 Always open to learning, improving, and collaborating on meaningful software projects — **let’s connect!**
 
 ---
-<table>
-<tr>
-<td width="60%" valign="top">
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+        alt="Coding"
+        style="max-width: 420px; width: 100%; height: auto;"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top">
 
 ### 👨‍💻 Full Stack Developer
 
@@ -24,20 +34,10 @@ Always open to learning, improving, and collaborating on meaningful software pro
 🔹 Focused on **clean code**,  
 &nbsp;&nbsp;&nbsp;&nbsp;**performance & scalability**
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
-  alt="Coding"
-  style="max-width: 420px; width: 100%; height: auto;"
-/>
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
+
 
 
 
