@@ -26,18 +26,21 @@ Always open to learning, improving, and collaborating on meaningful software pro
 
 </td>
 </tr>
+
 <tr>
 <td align="center">
 
 <img 
   src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
   alt="Coding"
-  style="max-width: 420px; width: 100%; height: auto;"
+  width="100%"
+  style="max-width: 350px; height: auto; display: block; margin: 0 auto;"
 />
 
 </td>
 </tr>
 </table>
+
 
 
 
