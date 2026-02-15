@@ -9,37 +9,20 @@ I enjoy creating **efficient, user-centric solutions** using modern web technolo
 Always open to learning, improving, and collaborating on meaningful software projects — **let’s connect!**
 
 ---
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### 👨‍💻 Full Stack Developer
 
-🔹 Strong foundation in **Java**  
-&nbsp;&nbsp;&nbsp;&nbsp;**& Data Structures**
+🔹 Strong foundation in **Java & Data Structures**  
+🔹 Hands-on experience with **Frontend & Backend Development**  
+🔹 Focused on **clean code, performance & scalability**
 
-🔹 Hands-on experience with **Frontend**  
-&nbsp;&nbsp;&nbsp;&nbsp;**& Backend Development**
-
-🔹 Focused on **clean code**,  
-&nbsp;&nbsp;&nbsp;&nbsp;**performance & scalability**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
-  alt="Coding"
-  width="100%"
-  style="max-width: 350px; height: auto; display: block; margin: 0 auto;"
-/>
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <img 
+    src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+    alt="Coding"
+    width="320"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
 
 
 
