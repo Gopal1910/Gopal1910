@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gopal Kumar Mahto
 
-💻 **Aspiring Software Engineer | Full Stack Web Developer**
+**MERN Stack | Full Stack AI Engineer**
 
 I am passionate about building **scalable, high-performance web applications** and solving real-world problems using **Java** and **Data Structures & Algorithms**.
 
